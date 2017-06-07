@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
-import ReactCssTransitionGroup from 'react-addons-css-transition-group'
+import ReactCssTransitionGroup from 'react-transition-group/CSSTransitionGroup'
 
 import CancelButton from '../cancel-button'
 import DeleteButton from '../delete-button'

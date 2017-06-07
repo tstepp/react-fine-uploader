@@ -57,7 +57,7 @@
     "karma-webpack": "2.0.3",
     "pica": "2.0.8",
     "react": "15.4.2",
-    "react-addons-css-transition-group": "15.4.2",
+    "react-transition-group": "1.1.x",
     "react-addons-test-utils": "15.4.2",
     "react-dom": "15.4.2",
     "prop-types": "15.5.8",
